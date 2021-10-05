@@ -1138,6 +1138,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Free C++ Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 * [Functional Programming in C#, Second Editions](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C#.
+* [Tiny C Projects](https://www.manning.com/books/tiny-c-projects) - 21 fun and interesting tiny challenges to master essential C techniques you’ll use in full-size applications.
 
 ## Coding Style
 
