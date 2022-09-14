@@ -1139,6 +1139,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 * [Functional Programming in C#, Second Editions](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C#.
 * [Tiny C Projects](https://www.manning.com/books/tiny-c-projects) - 21 fun and interesting tiny challenges to master essential C techniques you’ll use in full-size applications.
+* [Learning C++](https://www.manning.com/books/learning-c-plus-plus) - Book about how to program in C++ with confidence.
 
 ## Coding Style
 
